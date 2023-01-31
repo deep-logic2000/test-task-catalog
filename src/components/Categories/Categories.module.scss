@@ -1,0 +1,20 @@
+.categoryWrapper h2 {
+  color: rgb(42, 0, 139);
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  width: 100%;
+  background: rgb(249, 245, 255);
+  padding: 15px 0;
+  text-align: center;
+}
+
+.categoryTitleWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.linkWrapper {
+  text-decoration: none;
+}

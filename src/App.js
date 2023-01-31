@@ -1,11 +1,13 @@
-import React from 'react'
+import React from "react";
+import AppRoutes from "./Routes/Routes";
+
+import Header from "./components/Header/Header";
 
 export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>hello there</p>
-      </header>
+      <Header />
+      <AppRoutes />
     </div>
-  )
+  );
 }
