@@ -1,6 +1,10 @@
 ### Catalog of goods
 #### Screenshot
 ![image](https://github.com/deep-logic2000/test-task-catalog/assets/95580392/0be1de3e-e96d-457f-819b-9f3842c1939e)
+#### Stack
+- React
+- React-redux
+- Redux-thunk
 ### Задача:
 ##### Сделать две страницы каталога товаров:
 1. список товаров;
